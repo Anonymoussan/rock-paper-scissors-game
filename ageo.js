@@ -89,4 +89,4 @@ scissors_div.addEventListener('click', function() {
 
 })
 }
-main()
+
